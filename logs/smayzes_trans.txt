@@ -1,0 +1,9 @@
+Fri Jan 09 2015 15:59:33 GMT-0600 (CST) (user) `docs` is the command 
+Fri Jan 09 2015 16:52:11 GMT-0600 (CST) (user) / giphy party 
+Fri Jan 09 2015 16:53:19 GMT-0600 (CST) (user) docs security 
+Fri Jan 09 2015 16:53:19 GMT-0600 (CST) (bot) http://laravel.com/docs/security/ 
+Fri Jan 09 2015 16:53:40 GMT-0600 (CST) (user) should not the command be backslash docs 
+Fri Jan 09 2015 16:53:52 GMT-0600 (CST) (user) to avoid people mistakenly typing the word 
+Fri Jan 09 2015 16:55:22 GMT-0600 (CST) (user) I will remove the twitter one 
+Fri Jan 09 2015 16:56:09 GMT-0600 (CST) (user) ~yes Twitter gone 
+Fri Jan 09 2015 16:56:13 GMT-0600 (CST) (user) we should have 1 more slot 

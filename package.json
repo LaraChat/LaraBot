@@ -1,0 +1,12 @@
+{
+  "name": "larabot",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "superscript": "latest",
+    "sfacts": "latest",
+    "debug": "~2.0.0",
+    "slack-client": "~1.2.2",
+    "request": "~2.51.0"
+  }
+}
